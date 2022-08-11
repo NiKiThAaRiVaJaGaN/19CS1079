@@ -1,0 +1,35 @@
+.AdvertisementOne__main{
+    color: black;
+    min-width: 335px;
+    height: 420px;
+    background-color: white;
+    margin-left: 35px;
+    margin-top: 20px
+}
+
+.AdvertisementOne__header{
+    color: black;
+    font-size: 21px;
+    line-height: 27px;
+    font-weight: bold;
+    padding: 15px;
+}
+
+.AdvertisementOne__body{
+    color: black;
+    padding-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ad__fourImage{
+    width: 140px;
+    height: 120px;
+    margin: 6px;
+}
+
+.AdvertisementOne__footer{
+    color: black;
+    padding: 15px;
+    margin-top: 15px;
+}

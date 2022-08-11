@@ -1,0 +1,117 @@
+.navbar__component{
+    width: 100vw;
+    height: 150px;
+    background-color: black;
+    display: flex;
+}
+
+.navbar__logo{
+    background: url('https://ik.imagekit.io/thescentsation56/perfume_images/scentlogo_XWR8CBn03.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1654425047990');
+    width: 230px;
+    height: 130px;
+    margin: 10px;
+}
+
+.navbar__locatorImage{
+    background: url('https://ik.imagekit.io/thescentsation56/perfume_images/sprite_350x_7oN1PY6jM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654429491643') no-repeat -70px -340px;
+	width: 19px;
+	height: 21px;
+    margin-left: 55px;
+    margin-top: 50px;
+}
+
+.navbar__location{
+    color: white;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.navbar__searchbox{
+    width: 600px;
+    height: 40px;
+    margin: 45px;
+    display: flex;
+}
+
+.navbar__searchIcon{
+    background: url('https://ik.imagekit.io/thescentsation56/perfume_images/sprite_350x_7oN1PY6jM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654429491643') no-repeat -9px -289px;
+	width: 23px;
+	height: 23px;
+    margin: 13px;
+}
+
+.navbar__searchComponents{
+    display: flex;
+
+}
+
+.navbar__searchboxdiv{
+    background-color: lightslategray;
+    height: 46px;
+    width: 46px;
+    border-radius: 0px 5px 5px 0px;
+    margin-top: 45px;
+    margin-left: -45px;
+}
+
+.navbar__dropdown{
+    width: 60px;
+    height: 46px;
+    margin-top: 45px;
+    background-color: white;
+    border-radius: 5px 0px 0px 5px;
+    text-align-last: center;
+    margin-right: -46px;
+    margin-left: 20px;
+}
+
+.navbar__signin{
+    margin-left: 38px;
+    margin-top: 42px;
+}
+
+.navbar__orders{
+    margin-left: 38px;
+    margin-top: 42px;
+}
+
+.navbar__cart{
+   margin-left: 38px;
+   margin-top: 48px;
+   display: flex;
+}
+
+.navbar__cartImage{
+    background: url('https://ik.imagekit.io/thescentsation56/perfume_images/sprite_350x_7oN1PY6jM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1654429491643') no-repeat -217px -336px;
+	width: 43px;
+	height: 30px;
+}
+
+.navbar__cartText{
+    font-weight: bold;
+}
+
+.navbar__text{
+    color: white;
+}
+
+.navbar__cartItem{
+    position: relative;
+    left: -23px;
+    margin-top: -3px;
+    color: white; 
+}
+
+.navbar__footer{
+    width: 100vw;
+    height: 40px;
+    background-color: darkslategray;
+    color: black;
+    display: flex;
+}
+
+.navbar__footerText{
+    margin: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}

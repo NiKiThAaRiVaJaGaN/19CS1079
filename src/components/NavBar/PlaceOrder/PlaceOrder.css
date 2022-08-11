@@ -1,0 +1,45 @@
+.placeorder__image{
+    height: 500px;
+    width: 400px;
+    margin: 50px 120px;
+}
+
+.placeorder__description{
+    margin-top: 50px;
+}
+
+.textgap{
+    margin: 15px;
+}
+
+.pricetag{
+    font-size: 24px;
+    color: darkgreen;
+}
+
+.placeorder__button{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px;   
+    border: 0px;
+    color: white;
+}
+
+.placeorder__order{
+    margin-top: 50px;
+    width: 350px;
+    height: 400px;
+    margin-left: 50px;
+}
+
+.buynow{
+    background-color: darkslategray;
+    margin-left: 50px;
+}
+
+.addtocart{
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 50px;
+}
